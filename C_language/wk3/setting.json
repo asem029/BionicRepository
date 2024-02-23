@@ -1,0 +1,11 @@
+{
+    "cmake.configureOnOpen": true,
+    "editor.formatOnSave": true,
+    "cmake.options.statusBarVisibility": "visible",
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Default Dark+",
+    "grunt.autoDetect": "on",
+    "gulp.autoDetect": "on",
+    "jake.autoDetect": "on",
+    "accessibility.alert.error": false
+}
